@@ -14,23 +14,20 @@
    <Link will be updated soon>
 
  ---
-
-
 Screenshots (Nethunter Lite):
 
- ![1](https://github.com/rohitbalage/Rubber-Ducky-USB-Attacks-Nethunter/assets/35831574/acc178f6-6ad6-47f1-9405-dd304e510d60)
-![2](https://github.com/rohitbalage/Rubber-Ducky-USB-Attacks-Nethunter/assets/35831574/0b0b5101-205a-47b7-a47f-a56656d5d77c)
-![3](https://github.com/rohitbalage/Rubber-Ducky-USB-Attacks-Nethunter/assets/35831574/f5341c9d-829c-486c-ad12-901db86dce24)
-![4](https://github.com/rohitbalage/Rubber-Ducky-USB-Attacks-Nethunter/assets/35831574/c84beae3-747f-4e51-9955-6b6e0ad26209)
-![5](https://github.com/rohitbalage/Rubber-Ducky-USB-Attacks-Nethunter/assets/35831574/666eabc3-c2ac-4e0f-8dcb-b59cee2f1192)
-![6](https://github.com/rohitbalage/Rubber-Ducky-USB-Attacks-Nethunter/assets/35831574/acaeedba-2ac4-4f3a-80db-e3e83cbbefbc)
-![7](https://github.com/rohitbalage/Rubber-Ducky-USB-Attacks-Nethunter/assets/35831574/9f41d742-ff46-4b2b-b932-611f36a14ff5)
-![8](https://github.com/rohitbalage/Rubber-Ducky-USB-Attacks-Nethunter/assets/35831574/404a56c3-7d5b-43ab-8bbe-d6206decbbfe)
-![9](https://github.com/rohitbalage/Rubber-Ducky-USB-Attacks-Nethunter/assets/35831574/72b5730b-af52-4d8d-b913-654e524c5e80)
-![10](https://github.com/rohitbalage/Rubber-Ducky-USB-Attacks-Nethunter/assets/35831574/b338872a-9962-4cc7-a624-f36b2c4a8223)
-![11](https://github.com/rohitbalage/Rubber-Ducky-USB-Attacks-Nethunter/assets/35831574/29f12eb4-0599-437f-9120-a91857004c5f)
-![12](https://github.com/rohitbalage/Rubber-Ducky-USB-Attacks-Nethunter/assets/35831574/5f02ef45-2c50-4a2b-b42b-6297d16745dd)
-
+<a href="https://freeimage.host/"><img src="https://iili.io/JxVK1ff.gif" alt="JxVK1ff.gif" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/JxVKEl4.gif" alt="JxVKEl4.gif" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/JxVKGUl.gif" alt="JxVKGUl.gif" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/JxVKliG.gif" alt="JxVKliG.gif" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/JxVKVJ2.gif" alt="JxVKVJ2.gif" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/JxVKWRS.gif" alt="JxVKWRS.gif" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/JxVKXO7.gif" alt="JxVKXO7.gif" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/JxVKhb9.gif" alt="JxVKhb9.gif" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/JxVKwxe.gif" alt="JxVKwxe.gif" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/JxVKNWu.gif" alt="JxVKNWu.gif" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/JxVKOib.gif" alt="JxVKOib.gif" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/JxVKkfj.gif" alt="JxVKkfj.gif" border="0"></a>
 ---
 
 <details>
