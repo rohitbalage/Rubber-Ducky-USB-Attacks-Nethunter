@@ -1,6 +1,6 @@
 # The Rubber Ducky USB Nethunter Scripts
 
-### :hammer_and_wrench: Android Hacking and Beyond paper by Rohit Balage (Based on Kali Nethunter) :
+### :hammer_and_wrench: 'Android Hacking and Beyond' paper presentation by Rohit Balage (Based on Kali Nethuner) Cleveland State University Fall 2023:
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
@@ -12,7 +12,7 @@
 
  Watch Presentation on Youtube:
    <Link will be updated soon>
-   
+
  ---
 
 <details>
