@@ -14,11 +14,12 @@
 
  *Introduction to Nethunter presentation:*
 
-  https://www.youtube.com/watch?v=OqE7hBCffmg&t=13s
+  https://www.youtube.com/watch?v=zHAQ1Exj1EA
+
 
   *Android Hacking with Nethunter and Beyond presentation:*
   
-  https://www.youtube.com/watch?v=zHAQ1Exj1EA
+  https://www.youtube.com/watch?v=OqE7hBCffmg&t=13s
    
  ---
 Screenshots (Nethunter Lite):
