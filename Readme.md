@@ -11,8 +11,15 @@
  ---
 
  Watch Presentation on Youtube:
-   <Link will be updated soon>
 
+ *Introduction to Nethunter presentation:*
+
+  https://www.youtube.com/watch?v=OqE7hBCffmg&t=13s
+
+  *Android Hacking with Nethunter and Beyond presentation:*
+  
+  https://www.youtube.com/watch?v=zHAQ1Exj1EA
+   
  ---
 Screenshots (Nethunter Lite):
 
